@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ChanJsph/ChanJsph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 ChanJsph
 
-Here are some ideas to get you started:
+Building things. Learning things. Creating things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About
+
+I'm an Information Systems student interested in software, technology, and digital creativity.
+
+Skills
+🌐 Web Development
+🗄️ Database & Information Systems
+🐍 Python
+⚡ JavaScript
+🎨 Creative Design
+📸 Photography & Video
+Tools
+
+Git GitHub VS Code Figma Canva
+
+Always learning. Always building.
