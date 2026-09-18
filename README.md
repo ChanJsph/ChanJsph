@@ -2,18 +2,24 @@
 
 👨‍💻 ChanJsph
 
-Building things. Learning things. Creating things.
+  |Building things. Learning things. Creating things.
 
-About
+**About**
 
 I'm an Information Systems student interested in software, technology, and digital creativity.
 
 Skills
+
 🌐 Web Development
+
 🗄️ Database & Information Systems
+
 🐍 Python
+
 ⚡ JavaScript
+
 🎨 Creative Design
+
 📸 Photography & Video
 Tools
 
