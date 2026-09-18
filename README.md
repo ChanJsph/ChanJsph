@@ -1,28 +1,22 @@
-## Hi there 👋
+# Hi, I'm ChanJsph 👋
 
-👨‍💻 ChanJsph
+🎓 Information Systems Student
+💻 Developer | 📸 Photographer | 🎬 Video Editor
 
-  |Building things. Learning things. Creating things.
+### About Me
 
-**About**
+* 🌱 Currently learning and building new projects
+* 💡 Interested in technology, web development, and creative work
+* 🎯 Always learning, creating, and improving
 
-I'm an Information Systems student interested in software, technology, and digital creativity.
+### Tech & Tools
 
-Skills
+`HTML` `CSS` `JavaScript` `PHP` `Python` `Git` `GitHub`
 
-🌐 Web Development
+### Connect
 
-🗄️ Database & Information Systems
+📷 Photography & Creative Work — **ChanJsph**
 
-🐍 Python
+---
 
-⚡ JavaScript
-
-🎨 Creative Design
-
-📸 Photography & Video
-Tools
-
-Git GitHub VS Code Figma Canva
-
-Always learning. Always building.
+⭐ Thanks for visiting my profile!
